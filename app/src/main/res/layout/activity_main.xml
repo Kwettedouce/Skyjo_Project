@@ -19,8 +19,8 @@
     <Button
         android:id="@+id/button_mainActivity"
         android:background="@drawable/button_design"
-        android:layout_width="200dp"
-        android:layout_height="80dp"
+        android:layout_width="170dp"
+        android:layout_height="40dp"
         android:text="Clique salope"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
